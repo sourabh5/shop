@@ -1,1 +1,2 @@
-print "grocessary item added"
+print "grocessary item added"	
+print "stationary item added"
