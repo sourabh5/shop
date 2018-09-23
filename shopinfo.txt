@@ -1,0 +1,1 @@
+print "revenue is 5 million"
