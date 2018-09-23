@@ -1,2 +1,3 @@
 print "grocessary item added"	
 print "stationary item added"
+print "recharge available"
